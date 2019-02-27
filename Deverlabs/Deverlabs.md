@@ -12,17 +12,17 @@ Contributors :
 
 Description : 
 Have ever be in the situation when you cannot talk to someone because they are speaking another language ? 
-With Subtee, we're breaking this barrier by making subtitles directly on your shirt. There won't have any communication problem
+With SuBum, we're breaking this barrier by making subtitles directly on your Bum Bag . There won't have any communication problem
 anymore. Even if you are speaking another language than the other, you will still be able to understand each other.
 This product is targeting the people who willing to travel to foreign countries. 
 We're learning foreign language step by step and from the beginnin it's hard to follow native speaker because of their accent, tone, speed.
-With SUBTEE we can put subtitle directly on our shirt in order to understand what they are talking.
+With SUBUM we can put subtitle directly on our Bum Bag in order to understand what they are talking.
 While transcripting what you are saying, we gonna also analyse what you re feelings towards what your saying with a recognition of positive or negative words.
 
 
 
 Component needed : 
-* A shirt
+* A Bum Bag
 * Screen LED
 * Microphone
 * Wireless Adapter (connection to the phone)
